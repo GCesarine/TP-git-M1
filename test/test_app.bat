@@ -2,4 +2,4 @@
 
 echo "Copyright TACTfactory - 2013"
 echo "Build : 10:00"
-echo "version 1.2.1"
+echo "version 2.0.0"
